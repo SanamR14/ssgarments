@@ -6,7 +6,7 @@ import { Navbar } from '.';
 
 const products = [
     {id:1, name: 'Shirt', description:'Formal Shirt', size:'32', price:'Rs.499',image: img },
-    {id:2, name: 'Jean', description:'Casual Jean', size:'30', price:'Rs.799', image: img },
+    {id:2, name: 'Jean', description:'Casual Jean', size:'30', price:'Rs.699', image: img },
     {id:3, name: 'Shirt', description:'Formal Shirt', size:'32', price:'Rs.499',image: img },
     {id:4, name: 'Jean', description:'Casual Jean', size:'30', price:'Rs.799', image: img },
     {id:5, name: 'Shirt', description:'Formal Shirt', size:'32', price:'Rs.499',image: img },
